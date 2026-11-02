@@ -32,6 +32,20 @@ Each match contains information about players, teams, ranks, and outcomes.
 Update Behavior
 New matches are constantly added throughout the day. Historical matches normally do not change after completion.
 
+Resource Types
+Match
+One record represents one completed Dota 2 match.
+
+Hero
+One record represents a playable hero in Dota 2.
+
+Relationships
+Matches contain hero identifiers.
+
+The hero_id field links match data to hero records.
+
+A hero can appear in many matches.
+
 Surprises
 Some fields may be null.
 Match durations vary greatly.
