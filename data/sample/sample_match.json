@@ -1,0 +1,26 @@
+{
+  "match_id": 9072502272,
+  "match_seq_num": 7618576717,
+  "radiant_win": false,
+  "start_time": 1793578615,
+  "duration": 0,
+  "lobby_type": 14,
+  "game_mode": 13,
+  "avg_rank_tier": 23,
+  "num_rank_tier": 1,
+  "cluster": 272,
+  "radiant_team": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "dire_team": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}

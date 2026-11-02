@@ -106,3 +106,15 @@ every command before you approve it, and keep auto-approve off.
 ## Credits
 
 <!-- Your data API's required attribution, plus any open-source code or samples you used. -->
+Project Proposal
+Data Source and Backup
+My primary data source is the OpenDota API. It provides real-time and historical Dota 2 match data, player statistics, and hero information. My backup API will be the Chess.com Public API in case OpenDota becomes unavailable.
+
+Decision and Workflow
+The decision I want to improve is how players evaluate their gameplay performance and choose heroes. Currently, I would need to review match statistics, rankings, and hero trends manually. This process takes time and makes it difficult to identify patterns quickly.
+
+Agent Idea
+By Week 6, my AI agent will analyze Dota 2 match data and provide recommendations. The agent will identify strengths, weaknesses, hero trends, and performance patterns to help users improve gameplay decisions.
+
+Risks
+Potential risks include API rate limits, endpoint changes, data volume growth, and availability issues. These risks will be reduced through proper error handling, rate-limit compliance, and maintaining a backup API.
